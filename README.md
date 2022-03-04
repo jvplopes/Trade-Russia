@@ -10,4 +10,4 @@ Países como o Canada, União Europeia, Japão, Nova Zelândia, Taiwan, Reino Un
 
 Para verificar o alcance dessas sanções econômicas, verificaremos os dados comercias da Rússia entre os anos de 1996 e 2019 fornecidos pelo World Integrated Trade Solution (WITS).
 
-Confira o projeto completo (aqui)[https://github.com/jvplopes/Trade-Russia/blob/main/Russia.ipynb]
+Confira o projeto completo [aqui](https://github.com/jvplopes/Trade-Russia/blob/main/Russia.ipynb)
